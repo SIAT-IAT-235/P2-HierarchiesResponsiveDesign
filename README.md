@@ -100,6 +100,7 @@ The project is divided into three parts:
 5. **Deploy to GitHub Pages:**
    - Publish your final desktop and mobile layouts on GitHub Pages as part of your personal website.
    - Add a **Project 2** section to your website, linking to your Figma file and showcasing the final designs.
+   - Update the design of your AI Incidents pages based on one of your designs.
 
 ---
 
