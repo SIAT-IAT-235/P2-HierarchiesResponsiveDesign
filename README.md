@@ -1,4 +1,4 @@
-# **Project 2: Exploring Hierarchies and Responsive Design**
+# **Project 2: Exploring Hierarchies and Responsive Design (Three weeks)**
 
 **Due Date:** February 23, 2025, 11:59 PM  
 **Total Marks:** 100  
@@ -18,7 +18,7 @@ The project is divided into three parts:
 
 ## **Instructions**
 
-### **Part 1: Thumbnail Sketches**
+### **Part 1: Thumbnail Sketches (Week 1)**
 
 1. **Select Content:**
    - Choose one AI incident from your **P1** data.
@@ -49,7 +49,7 @@ The project is divided into three parts:
 
 ---
 
-### **Part 2: Digital Refinement in Figma**
+### **Part 2: Digital Refinement in Figma (Week 2)**
 
 1. **Set Up in Figma:**
    - Create a free **Figma Educational Account** using your SFU email.
@@ -74,7 +74,7 @@ The project is divided into three parts:
 
 ---
 
-### **Part 3: Finalize and Present**
+### **Part 3: Finalize and Present (Week 3)**
 
 1. **Finalize Designs:**
    - Select **one desktop layout** and **one mobile layout** for final submission.
